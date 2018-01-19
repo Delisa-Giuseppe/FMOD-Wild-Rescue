@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{87070802-e244-4b6c-bc36-0219038f1ed5}">
+        <property name="assetPath">
+            <value>Incoming_Suspense-Maximilien_-1060577487.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.8353514739229024</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{314adefb-733d-45e7-94bd-76539ff4e25a}</destination>
+        </relationship>
+    </object>
+</objects>

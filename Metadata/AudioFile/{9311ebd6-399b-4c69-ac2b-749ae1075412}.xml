@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{9311ebd6-399b-4c69-ac2b-749ae1075412}">
+        <property name="assetPath">
+            <value>pour_glass_water-Mike-Koenig-123.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>11.757369614512472</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{314adefb-733d-45e7-94bd-76539ff4e25a}</destination>
+        </relationship>
+    </object>
+</objects>

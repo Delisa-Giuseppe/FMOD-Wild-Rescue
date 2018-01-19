@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Workspace" id="{100b1492-0b3f-4fc5-a275-1803fae711a9}">
+        <property name="builtBanksOutputDirectory">
+            <value>../../../RepoGit/Unity/Wild-French/Assets/Sound</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{40e00925-f7bb-4f59-b389-30b347b77e66}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{77741c32-6a55-4de8-a2ed-5f7da7a37271}</destination>
+        </relationship>
+        <relationship name="masterEffectPresetFolder">
+            <destination>{15437509-22a0-4b35-9a70-81dcfcebf016}</destination>
+        </relationship>
+        <relationship name="masterParameterPresetFolder">
+            <destination>{1321659f-eb96-41f4-97c0-11affa5f030c}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{e0c6e714-2ea0-48ab-8193-16c1fcfdbbf1}</destination>
+        </relationship>
+        <relationship name="masterAssetFolder">
+            <destination>{314adefb-733d-45e7-94bd-76539ff4e25a}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{c6e22c27-a13c-4955-b392-073a8afe8406}</destination>
+        </relationship>
+        <relationship name="platforms">
+            <destination>{e6cd341a-2215-4723-a1cc-69df8d67fd35}</destination>
+        </relationship>
+    </object>
+</objects>
