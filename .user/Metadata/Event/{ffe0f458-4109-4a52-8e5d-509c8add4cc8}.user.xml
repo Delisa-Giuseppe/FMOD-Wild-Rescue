@@ -5,7 +5,7 @@
             <value>49</value>
         </property>
         <relationship name="selectables">
-            <destination>{9f7db88c-d62b-458d-95a4-15650abae0c6}</destination>
+            <destination>{8d8a440a-195f-4176-94c3-9d8356c561fa}</destination>
         </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{4672099c-17cd-4150-96ab-b73954c914f3}</destination>
@@ -25,6 +25,9 @@
     <object class="Timeline" id="{4672099c-17cd-4150-96ab-b73954c914f3}">
         <property name="uiLastRulerScaleRatio">
             <value>0.049559185140363414</value>
+        </property>
+        <property name="uiLastHorizontalScrollBarValue">
+            <value>1046</value>
         </property>
     </object>
     <object class="ParameterProxy" id="{5f9a8f5a-80c9-41d2-8211-77ef74208f75}">
@@ -72,9 +75,6 @@
     <object class="ParameterCondition" id="{736792ca-323c-4aeb-ae4d-6fcc9abb9dd8}"/>
     <object class="MixerBusFader" id="{30eee498-d9f8-41bb-bfad-0cd3947a47be}"/>
     <object class="MixerBusFader" id="{00ce238b-b7fc-43d6-ae00-e19d763b197f}"/>
-    <object class="SpatialiserEffect" id="{a691c54d-a5e6-484f-b31e-410a5ba68748}"/>
     <object class="MixerBusFader" id="{e20b5ad7-8a8a-4529-88b3-b6fcda94220e}"/>
-    <object class="SpatialiserEffect" id="{d0ca7cfa-8816-41e7-8514-d005e1c08244}"/>
     <object class="MixerBusFader" id="{ba1f55f9-c736-406a-92b6-45a953f672d0}"/>
-    <object class="SpatialiserEffect" id="{0ed53c10-b625-4662-a78c-709c99e15e45}"/>
 </objects>

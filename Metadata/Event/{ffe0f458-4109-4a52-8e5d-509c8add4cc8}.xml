@@ -5,7 +5,7 @@
             <value>ambient_house_storm</value>
         </property>
         <property name="outputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="folder">
             <destination>{b3accbc0-b9fa-403c-974d-aff8b5ee8c7b}</destination>
@@ -233,10 +233,10 @@
     </object>
     <object class="LoopRegion" id="{e61fb38b-dcb4-4b84-903d-fbccb5c1e5b1}">
         <property name="position">
-            <value>80</value>
+            <value>80.5</value>
         </property>
         <property name="length">
-            <value>37.477006802721093</value>
+            <value>36.977006802721093</value>
         </property>
         <relationship name="timeline">
             <destination>{4672099c-17cd-4150-96ab-b73954c914f3}</destination>
@@ -261,7 +261,7 @@
     </object>
     <object class="NamedMarker" id="{8d8a440a-195f-4176-94c3-9d8356c561fa}">
         <property name="position">
-            <value>80</value>
+            <value>80.5</value>
         </property>
         <property name="name">
             <value>Low</value>
@@ -275,10 +275,10 @@
     </object>
     <object class="TransitionRegion" id="{d79b7035-d5da-4d67-ad32-61075d09246c}">
         <property name="position">
-            <value>80</value>
+            <value>80.5</value>
         </property>
         <property name="length">
-            <value>37.477006802721093</value>
+            <value>36.977006802721093</value>
         </property>
         <property name="quantizationInterval">
             <value>3</value>
@@ -321,10 +321,10 @@
     </object>
     <object class="LoopRegion" id="{5d6ff473-317d-4175-9b22-102fc2df8a6b}">
         <property name="position">
-            <value>40</value>
+            <value>40.5</value>
         </property>
         <property name="length">
-            <value>37.477006802721093</value>
+            <value>36.977006802721093</value>
         </property>
         <relationship name="timeline">
             <destination>{4672099c-17cd-4150-96ab-b73954c914f3}</destination>
@@ -335,7 +335,7 @@
     </object>
     <object class="NamedMarker" id="{68a8b773-61e4-47ae-982d-e2a3b55ae03c}">
         <property name="position">
-            <value>40</value>
+            <value>40.5</value>
         </property>
         <property name="name">
             <value>Mid</value>
@@ -349,10 +349,10 @@
     </object>
     <object class="TransitionRegion" id="{0c7f52d2-7502-4e93-b643-d7916c78ee98}">
         <property name="position">
-            <value>40</value>
+            <value>40.5</value>
         </property>
         <property name="length">
-            <value>37.477006802721085</value>
+            <value>36.977006802721085</value>
         </property>
         <property name="quantizationInterval">
             <value>3</value>
@@ -372,10 +372,10 @@
     </object>
     <object class="TransitionRegion" id="{75e7f65a-7190-4097-96a3-92445cf9b779}">
         <property name="position">
-            <value>40</value>
+            <value>40.5</value>
         </property>
         <property name="length">
-            <value>37.477006802721093</value>
+            <value>36.977006802721093</value>
         </property>
         <property name="quantizationInterval">
             <value>3</value>
@@ -403,21 +403,18 @@
     <object class="MixerBusEffectChain" id="{8af20ce7-326d-4003-be8c-18b9f3cceecb}">
         <relationship name="effects">
             <destination>{00ce238b-b7fc-43d6-ae00-e19d763b197f}</destination>
-            <destination>{a691c54d-a5e6-484f-b31e-410a5ba68748}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{244b3560-5ae5-40ff-b800-3261666e0797}"/>
     <object class="MixerBusEffectChain" id="{72d6b110-d3e4-4cd7-b5dc-c8999e67fbd6}">
         <relationship name="effects">
             <destination>{e20b5ad7-8a8a-4529-88b3-b6fcda94220e}</destination>
-            <destination>{d0ca7cfa-8816-41e7-8514-d005e1c08244}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{806c0d23-f16e-4be0-8fe0-802f07171c94}"/>
     <object class="MixerBusEffectChain" id="{3664ad33-fb61-430f-92f8-51ef7842619e}">
         <relationship name="effects">
             <destination>{ba1f55f9-c736-406a-92b6-45a953f672d0}</destination>
-            <destination>{0ed53c10-b625-4662-a78c-709c99e15e45}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{c80a80af-9cf0-4337-a25f-5b488634d3db}"/>
@@ -467,9 +464,6 @@
     </object>
     <object class="MixerBusFader" id="{30eee498-d9f8-41bb-bfad-0cd3947a47be}"/>
     <object class="MixerBusFader" id="{00ce238b-b7fc-43d6-ae00-e19d763b197f}"/>
-    <object class="SpatialiserEffect" id="{a691c54d-a5e6-484f-b31e-410a5ba68748}"/>
     <object class="MixerBusFader" id="{e20b5ad7-8a8a-4529-88b3-b6fcda94220e}"/>
-    <object class="SpatialiserEffect" id="{d0ca7cfa-8816-41e7-8514-d005e1c08244}"/>
     <object class="MixerBusFader" id="{ba1f55f9-c736-406a-92b6-45a953f672d0}"/>
-    <object class="SpatialiserEffect" id="{0ed53c10-b625-4662-a78c-709c99e15e45}"/>
 </objects>
